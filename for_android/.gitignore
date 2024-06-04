@@ -1,0 +1,5 @@
+*.code-workspace
+archive/
+temp/
+screen_shot/
+pull/
